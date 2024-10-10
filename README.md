@@ -53,6 +53,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=chldsbdud&show_icons=true">
  
 
-![Yunyoung's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kycasdzxc)
+<!--![Yunyoung's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kycasdzxc) -->
 
 <br>
